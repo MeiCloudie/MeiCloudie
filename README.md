@@ -32,8 +32,8 @@
 
 ## Top Repositories
 
-<a href="https://github.com/MeiCloudie/client-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meicloudie&repo=client-app&theme=dracula" />
+<a href="https://github.com/MeiCloudie/hutech-classroom-client-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meicloudie&repo=hutech-classroom-client-app&theme=dracula" />
 </a>
 
 ## Badges
