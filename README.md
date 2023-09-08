@@ -21,6 +21,9 @@
 ## ✨ Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=meicloudie&hide=contribs,prs&theme=dracula)
 
+## 📈 Github Charts
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeiCloudie&theme=dracula&hide_border=true&width=1000)
+
 ## 💥 Github Streaks 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=meicloudie&theme=dracula)
 
