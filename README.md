@@ -1,10 +1,10 @@
 ## ✨ About me
 
-- 😀 My name is Trương Thục Vân
+- 😀 My name is Trương Thục Vân (MeiCloudie)
 
 - 📖 Studying at [HUTECH](https://www.hutech.edu.vn/)
 
-- ❤️ I love writing React
+- ❤️ I love writing TypeScript
 
 - 💬 Ask me about anything [here](https://github.com/meicloudie/meicloudie/issues)
 <br>
