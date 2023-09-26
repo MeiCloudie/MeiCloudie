@@ -8,7 +8,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/meicloudie/meicloudie/issues)
 
-- 💌 You can reach me at [truongthucvan1242@gmail.com](maito:truongthucvan1242@gmail.com)
+- 💌 You can reach me at [truongthucvan1242@gmail.com](mailto:truongthucvan1242@gmail.com)
 
 ## ⚙ Technologies
 
