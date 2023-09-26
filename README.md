@@ -1,22 +1,22 @@
 ## ✨ About me
 
-- 😀 My name is Trương Thục Vân (MeiCloudie)
+- 😀 My name is Trương Thục Vân (aka MeiCloudie)
 
 - 📖 Studying at [HUTECH](https://www.hutech.edu.vn/)
 
 - ❤️ I love writing TypeScript
 
 - 💬 Ask me about anything [here](https://github.com/meicloudie/meicloudie/issues)
-<br>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
-<br>
+
+- 💌 You can reach me at [truongthucvan1242@gmail.com](maito:truongthucvan1242@gmail.com)
+
+## ⚙ Technologies
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart,postgres,mongodb,visualstudio,vscode,postman,github,dotnet,react,flutter,nodejs,nextjs,vercel,html,css,bootstrap,jquery&perline=10" />
+  </a>
+</p>
 
 ## ✨ Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=meicloudie&hide=contribs,prs&theme=dracula)
