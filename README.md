@@ -2,7 +2,9 @@
 
 - 😀 My name is Trương Thục Vân (aka MeiCloudie)
 
-- 📖 Studying at [HUTECH](https://www.hutech.edu.vn/)
+- 📖 Studying at [HUTECH](https://www.hutech.edu.vn/) (prepare graduate)
+
+- 👜 Currently, I am a Software Engineer Intern at [CyberSoft](https://cybersoft.edu.vn/) - [TechX](https://techx.edu.vn/)
 
 - ❤️ I love writing TypeScript
 
