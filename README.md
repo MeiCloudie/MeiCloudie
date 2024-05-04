@@ -20,6 +20,8 @@
   </a>
 </p>
 
+<a href="https://gitroll.io/profile/u679xvndgXYdkEvwgQq93yhdXPgS2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u679xvndgXYdkEvwgQq93yhdXPgS2" alt="GitRoll Profile Badge" width="45%" height=auto/></a>
+
 ## ✨ Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=meicloudie&hide=contribs,prs&theme=dracula)
 
