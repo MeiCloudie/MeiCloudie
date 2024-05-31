@@ -20,10 +20,9 @@
   </a>
 </p>
 
-<a href="https://gitroll.io/profile/u679xvndgXYdkEvwgQq93yhdXPgS2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u679xvndgXYdkEvwgQq93yhdXPgS2" alt="GitRoll Profile Badge" width="45%" height=auto/></a>
-
 ## ✨ Github Stats
-![](https://github-readme-stats.vercel.app/api?username=meicloudie&hide=contribs,prs&theme=dracula)
+![](https://raw.githubusercontent.com/MeiCloudie/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MeiCloudie/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 📈 Github Charts
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeiCloudie&theme=dracula&hide_border=true&width=1000)
@@ -34,14 +33,8 @@
 ## 🏆 Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meicloudie&theme=dracula&no-frame=true&column=4&margin-w=15)
 
-## 👨‍💻 Github Top Used Languages 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meicloudie&theme=dracula&include_all_commits=false&count_private=false&layout=compact)
+## 🏅 GitRoll Profile Badge
+<a href="https://gitroll.io/profile/u679xvndgXYdkEvwgQq93yhdXPgS2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u679xvndgXYdkEvwgQq93yhdXPgS2" alt="GitRoll Profile Badge" width="45%" height=auto/></a>
 
-## Top Repositories
-
-<a href="https://github.com/MeiCloudie/hutech-classroom-client-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meicloudie&repo=hutech-classroom-client-app&theme=dracula" />
-</a>
-
-## Badges
+## ⚙️ Badges
 ![](https://komarev.com/ghpvc/?username=meicloudie&color=green)
