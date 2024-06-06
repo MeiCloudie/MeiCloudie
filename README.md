@@ -38,7 +38,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=meicloudie&theme=dracula&no-frame=true&column=4&margin-w=15)
 
 ## 🏅 GitRoll Profile Badge
-<a href="https://gitroll.io/profile/u679xvndgXYdkEvwgQq93yhdXPgS2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u679xvndgXYdkEvwgQq93yhdXPgS2" alt="GitRoll Profile Badge" width="45%" height=auto /></a>
+
 
 ## ⚙️ Badges
 ![](https://komarev.com/ghpvc/?username=meicloudie&color=green)
