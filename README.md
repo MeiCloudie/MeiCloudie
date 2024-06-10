@@ -1,6 +1,6 @@
 ## ✨ About me
 
-- 😀 My name is Trương Thục Vân (aka MeiCloudie)
+- 😀 My name is Trương Thục Vân (aka MeiCloudie) - From VietNam
 
 - 📖 Studying at [HUTECH](https://www.hutech.edu.vn/) (prepare graduate)
 
