@@ -4,7 +4,7 @@
 
 - 📖 Studying at [HUTECH](https://www.hutech.edu.vn/) (prepare graduate)
 
-- 👜 Currently, I am a Software Engineer Intern at [CyberSoft](https://cybersoft.edu.vn/) - [TechX](https://techx.edu.vn/)
+- 👜 Currently, I am a Software Engineer Internship at [CyberSoft](https://cybersoft.edu.vn/) - [TechX](https://techx.edu.vn/)
 
 - ❤️ I love writing TypeScript
 
