@@ -6,7 +6,7 @@
 
 - 👜 Currently, I am a Software Engineer Internship at [CyberSoft](https://cybersoft.edu.vn/) - [TechX](https://techx.edu.vn/)
 
-- ❤️ I love writing TypeScript
+- ❤️ I love writing TypeScript q(≧▽≦q)
 
 - 💬 Ask me about anything [here](https://github.com/meicloudie/meicloudie/issues)
 
