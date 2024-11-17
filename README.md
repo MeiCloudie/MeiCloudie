@@ -6,7 +6,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/meicloudie/meicloudie/issues)
 
-- 💌 You can reach me at [truongthucvan1242@gmail.com](mailto:truongthucvan1242@gmail.com)
+- 💌 You can reach me at [truongthucvan1242@gmail.com](mailto:truongthucvan1242@gmail.com) or [tthvan.dev@gmail.com](mailto:tthvan.dev@gmail.com)
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
@@ -16,7 +16,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart,postgres,mongodb,visualstudio,vscode,postman,github,dotnet,react,flutter,nodejs,nextjs,vercel,html,css,bootstrap,jquery&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,dart,postgres,mongodb,visualstudio,vscode,postman,github,react,flutter,nodejs,nextjs,vercel,html,css,bootstrap,jquery&perline=9" />
   </a>
 </p>
 
