@@ -4,6 +4,8 @@
 
 - ❤️ I love writing TypeScript q(≧▽≦q)
 
+- ✨ View my portfolio [here](https://thucvan-portfolio.vercel.app)
+
 - 💬 Ask me about anything [here](https://github.com/meicloudie/meicloudie/issues)
 
 - 💌 You can reach me at [truongthucvan1242@gmail.com](mailto:truongthucvan1242@gmail.com) or [tthvan.dev@gmail.com](mailto:tthvan.dev@gmail.com)
